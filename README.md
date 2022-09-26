@@ -43,5 +43,5 @@ I worked with Seedstack, Dropwizard, and Spring frameworks too but i love Python
 
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Postgres&message=Postgres&color=blue">
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=MariaDB&message=MariaDB&color=white">
-<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=SQLites&message=SQLite&color=red">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=SQLite&message=SQLite&color=red">
 
