@@ -9,57 +9,39 @@ I want to be a productive person who helps others to carry out their work, I lik
 
 📟 Programming Languages
 
-TypeScript
-Python
+
+<img alt="npm type definitions" src="https://img.shields.io/npm/types/typescript">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Python&message=Python&color=purple">
 
 💻 Frontend Development
 Do not limit to frontend, backend is cool too!
 
-HTML5
-CSS3
-SASS
-
-RxJS
-Chart.js
-NodeJS
-JQUERY
-Angular
-Ionic
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=HTML5&message=HTML5&color=green">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=CSS3&message=CSS3&color=red">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=SASS&message=SASS&color=blue">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=RxJS&message=RxJS&color=gray">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=NodeJS&message=NodeJS&color=black">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=JQUERY&message=JQUERY&color=blue">
+<img alt="npm type definitions" src="https://img.shields.io/npm/types/typescript">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Angular&message=Angular&color=purple">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Ionic&message=Ionic&color=yellow">
 
 
 🖥️ Backend Development
 I worked with Seedstack, Dropwizard, and Spring frameworks too but i love Python now :)
 
-Django
-DjangoREST
-Python
-Express.js
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Django&message=Django&color=white">
 
-Swagger it not should be here
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=DjangoREST&message=DjangoREST&color=blue">
+
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Python&message=Python&color=yellow">
+
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Express.js&message=Express.js&color=red">
+
 
 🔋 Database Development
-¿Have you designed something database? Maybe...
 
-Postgres
-MariaDB
-SQLite
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Postgres&message=Postgres&color=blue">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=MariaDB&message=MariaDB&color=white">
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=SQLites&message=SQLite&color=red">
 
-🙋‍♂️ More about me!
-⚒️ Tools & Technologies
-💤 I previously worked with...
-🔭 I'm currently learning...
-
-<!--
-**German14/German14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
