@@ -9,7 +9,7 @@ I want to be a productive person who helps others to carry out their work, I lik
 
 📟 Programming Languages
 
-
+<img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Angular&message=Angular&color=purple">
 <img alt="npm type definitions" src="https://img.shields.io/npm/types/typescript">
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Python&message=Python&color=purple">
 
