@@ -8,13 +8,11 @@ I want to be a productive person who helps others to carry out their work, I lik
 
 
 📟 Programming Languages
-
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Angular&message=Angular&color=purple">
 <img alt="npm type definitions" src="https://img.shields.io/npm/types/typescript">
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Python&message=Python&color=purple">
 
 💻 Frontend Development
-Do not limit to frontend, backend is cool too!
 
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=HTML5&message=HTML5&color=green">
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=CSS3&message=CSS3&color=red">
@@ -28,16 +26,10 @@ Do not limit to frontend, backend is cool too!
 
 
 🖥️ Backend Development
-I worked with Seedstack, Dropwizard, and Spring frameworks too but i love Python now :)
-
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Django&message=Django&color=white">
-
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=DjangoREST&message=DjangoREST&color=blue">
-
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Python&message=Python&color=yellow">
-
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=Express.js&message=Express.js&color=red">
-
 
 🔋 Database Development
 
