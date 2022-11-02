@@ -37,5 +37,4 @@ I want to be a productive person who helps others to carry out their work, I lik
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=MariaDB&message=MariaDB&color=white">
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=SQLite&message=SQLite&color=red">
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/German14/German14/blob/output/github-contribution-grid-snake.gif)
