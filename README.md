@@ -37,3 +37,4 @@ I want to be a productive person who helps others to carry out their work, I lik
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=MariaDB&message=MariaDB&color=white">
 <img alt="npm type definitions" src="https://img.shields.io/static/v1?label=SQLite&message=SQLite&color=red">
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
